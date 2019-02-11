@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Tang
+Bundle-SymbolicName: tang
+Bundle-Version: 1.0.0.qualifier
+Require-Bundle: com.jiuqi.dna.ui.wt,
+ com.jiuqi.dna.ui.common,
+ com.jiuqi.dna.ui.lightweight,
+ com.jiuqi.dna.ui.custom,
+ com.jiuqi.dna.ui.engine
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
